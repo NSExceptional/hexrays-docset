@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.hex-rays.hexrays</string>
+	<key>CFBundleName</key>
+	<string>HexRays Decompiler</string>
+	<key>DashDocSetDefaultFTSEnabled</key>
+	<true/>
+	<key>DashDocSetFallbackURL</key>
+	<string>https://hex-rays.com/products/decompiler/manual/sdk</string>
+	<key>DocSetPlatformFamily</key>
+	<string>IDA</string>
+	<key>dashIndexFilePath</key>
+	<string>index.shtml</string>
+	<key>isDashDocset</key>
+	<true/>
+</dict>
+</plist>
